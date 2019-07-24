@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\MyAlgorithmTest\\MyAlgorithmTest.csproj": {}
+  },
+  "projects": {
+    "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\MyAlgorithmTest\\MyAlgorithmTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\MyAlgorithmTest\\MyAlgorithmTest.csproj",
+        "projectName": "MyAlgorithmTest",
+        "projectPath": "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\MyAlgorithmTest\\MyAlgorithmTest.csproj",
+        "packagesPath": "C:\\Users\\Demig\\.nuget\\packages\\",
+        "outputPath": "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\MyAlgorithmTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Demig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\SomeAlgorithms\\SomeAlgorithms.csproj": {
+                "projectPath": "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\SomeAlgorithms\\SomeAlgorithms.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\SomeAlgorithms\\SomeAlgorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\SomeAlgorithms\\SomeAlgorithms.csproj",
+        "projectName": "SomeAlgorithms",
+        "projectPath": "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\SomeAlgorithms\\SomeAlgorithms.csproj",
+        "packagesPath": "C:\\Users\\Demig\\.nuget\\packages\\",
+        "outputPath": "C:\\LocalRepository\\SomeAlgotihms\\SomeAlgorithms\\SomeAlgorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Demig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

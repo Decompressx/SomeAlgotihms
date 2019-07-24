@@ -1,0 +1,11 @@
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\bin\Debug\netcoreapp2.1\MyAlgorithmTests.deps.json
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\bin\Debug\netcoreapp2.1\MyAlgorithmTests.runtimeconfig.json
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\bin\Debug\netcoreapp2.1\MyAlgorithmTests.runtimeconfig.dev.json
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\bin\Debug\netcoreapp2.1\MyAlgorithmTests.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\obj\Debug\netcoreapp2.1\MyAlgorithmTests.csprojAssemblyReference.cache
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\obj\Debug\netcoreapp2.1\MyAlgorithmTests.csproj.CoreCompileInputs.cache
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\obj\Debug\netcoreapp2.1\MyAlgorithmTests.AssemblyInfoInputs.cache
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTests\obj\Debug\netcoreapp2.1\MyAlgorithmTests.AssemblyInfo.cs

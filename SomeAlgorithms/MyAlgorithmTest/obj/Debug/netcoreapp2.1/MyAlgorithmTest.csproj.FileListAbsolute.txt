@@ -1,0 +1,17 @@
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\MyAlgorithmTest.deps.json
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\MyAlgorithmTest.runtimeconfig.json
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\MyAlgorithmTest.runtimeconfig.dev.json
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\MyAlgorithmTest.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\MyAlgorithmTest.pdb
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\obj\Debug\netcoreapp2.1\MyAlgorithmTest.csprojAssemblyReference.cache
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\obj\Debug\netcoreapp2.1\MyAlgorithmTest.csproj.CoreCompileInputs.cache
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\obj\Debug\netcoreapp2.1\MyAlgorithmTest.AssemblyInfoInputs.cache
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\obj\Debug\netcoreapp2.1\MyAlgorithmTest.AssemblyInfo.cs
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\obj\Debug\netcoreapp2.1\MyAlgorithmTest.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\obj\Debug\netcoreapp2.1\MyAlgorithmTest.pdb
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\SomeAlgorithms.dll
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\bin\Debug\netcoreapp2.1\SomeAlgorithms.pdb
+C:\LocalRepository\SomeAlgotihms\SomeAlgorithms\MyAlgorithmTest\obj\Debug\netcoreapp2.1\MyAlgorithmTest.csproj.CopyComplete
